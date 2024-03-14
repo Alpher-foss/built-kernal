@@ -1,6 +1,6 @@
 # my_kernel_build.sh
 
-### WORK IN PROGRESS...
+### ARCHIVED...
 
 
 ![ANDROID KERNEL](https://fakeupdate.net/mobile/android/android.gif)
